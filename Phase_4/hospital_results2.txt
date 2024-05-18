@@ -1,0 +1,70 @@
+PHYSICIAN_NAME                                    
+--------------------------------------------------
+Will Smith
+Chris Evans
+
+
+SPECIALTY                                          SUM(HOURS)   COUNT(*)
+-------------------------------------------------- ---------- ----------
+Anesthesiology                                             72          9
+Dermatology                                                68          9
+Internal medicine                                          44          6
+Family Medicine                                            50          6
+Surgery                                                    43          6
+
+
+NURSE_NAME                                        
+--------------------------------------------------
+Ben Samuel
+Sam Hoyt
+
+
+NURSE_NAME                                        
+--------------------------------------------------
+Chris Summa
+Tamjid Hoque
+James Wagner
+Ben Samuel
+
+
+NURSE_NAME                                        
+--------------------------------------------------
+Ted Holmberg
+John Nicklow
+Vassil Roussev
+Matt Toups
+Hyunguk Yoo
+Sam Hoyt
+
+6 rows selected. 
+
+
+NURSE_NAME                                        
+--------------------------------------------------
+Chris Summa
+Vassil Roussev
+Tamjid Hoque
+
+
+SPECIALTY                                            COUNT(*)
+-------------------------------------------------- ----------
+Anesthesiology                                              4
+Dermatology                                                 3
+Internal medicine                                           2
+Family Medicine                                             2
+Surgery                                                     2
+
+
+AVG(NURSE_SALARY)
+-----------------
+       82285.7143
+
+
+PATIENT_NAME                                      
+--------------------------------------------------
+Rihanna
+
+
+AVG(PATIENT_AGE)
+----------------
+      31.8571429
