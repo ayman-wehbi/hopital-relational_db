@@ -1,1 +1,1 @@
-# hopital-relational_db
+### hopital-relational_db This project applies various database and programming skills to develop and interact with a hospital database. It emphasizes hands-on experience with SQL, PL/SQL, JDBC, and database design principles. Each phase builds upon the previous ones, culminating in a comprehensive understanding and application of database management systems.
